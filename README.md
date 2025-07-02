@@ -59,10 +59,10 @@ We applied adversarial training using adversarial samples for **FGSM**, **BIM**,
 
 ## 🎥 Demo Video
 
-🎬 **Model Performance Before & After Adversarial Training**  
-This video demonstrates the difference in the model's behavior when exposed to adversarial attacks before and after applying adversarial training.
+<video src="./results/videos/adversarial_training_demo.mp4" controls width="100%"></video>
 
-> [🎥 Watch Video](./results/videos/adversarial_training_demo.mp4)
+🎬 This video demonstrates the model's performance **before and after adversarial training**, highlighting the improvement in robustness against attacks.
+
 
 
 ---
