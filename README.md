@@ -6,7 +6,7 @@ This project proposes a robust adversarial defense system for traffic sign recog
 
 ## 🚗 System Architecture
 
-- **YOLOv5**: Used for segmenting traffic signs from real-time driving scenes.
+- **YOLOv8s**: Used for segmenting traffic signs from real-time driving scenes.
 - **VGG16**: Used to classify the segmented traffic sign image.
 - **CARLA Simulator**: Provides realistic autonomous driving environments to test the perception system.
 - **GTSRB Dataset**: Used for training the classifier (VGG16).
